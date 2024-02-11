@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/checkout_page/static/css/main.defef877.css",
+    "main.js": "/checkout_page/static/js/main.cbedf300.js",
+    "static/media/banner.jpg": "/checkout_page/static/media/banner.f0de8b1194cfa1d5db2e.jpg",
+    "static/media/americanexp.png": "/checkout_page/static/media/americanexp.d4f6910aaae152e28555.png",
+    "static/media/mastercard.png": "/checkout_page/static/media/mastercard.2dc118d7d5834bf45c9a.png",
+    "static/media/help.png": "/checkout_page/static/media/help.a97e45146636971d8892.png",
+    "static/media/logo_.png": "/checkout_page/static/media/logo_.f5b54a4a7f8bff632103.png",
+    "static/media/piggybank1.svg": "/checkout_page/static/media/piggybank1.06021d24afbf8850e43184a31bbe99e0.svg",
+    "index.html": "/checkout_page/index.html",
+    "main.defef877.css.map": "/checkout_page/static/css/main.defef877.css.map",
+    "main.cbedf300.js.map": "/checkout_page/static/js/main.cbedf300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.defef877.css",
+    "static/js/main.cbedf300.js"
+  ]
+}
